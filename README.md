@@ -14,6 +14,8 @@ Database Name:  diabetesAtHomeDB
 
 mongodb+srv://admin:<password>@cluster0.lepap.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
+mongodb+srv://admin:<password>@cluster0.7idbtlg.mongodb.net/?retryWrites=true&w=majority
+
 .env:
 MONGO_URL="mongodb+srv://admin:oAERSsu4QTIqReB9@cluster0.lepap.mongodb.net/diabetesHome?retryWrites=true&w=majority"
 
